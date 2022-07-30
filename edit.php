@@ -30,7 +30,7 @@ if($result){
                    Required>
             <input type="hidden" name="id" id="id" value="<?php echo $id ?>">
         </div>
-        <button class="btn btn-success">Modifier</button>
+        <button class="btn btn-success mt-3">Modifier</button>
     </form>
 </div>
 
