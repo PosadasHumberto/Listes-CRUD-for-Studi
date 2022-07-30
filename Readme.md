@@ -1,6 +1,6 @@
-Pour pouvoir utiliser cette pplication il est necesaire de suivre les étapes dans l'ordre:
+Pour pouvoir utiliser cette application il est nécesaire de suivre les étapes dans l'ordre:
 
-1.-Créer une base de données sous le nom todos
+1.-Créer une base de données sous le nom "todos".
 2.- Dans la BDD "todos" il faut créer une premiere table sous le nom "listes" avec les attributes: 
 		"id" du type int(5) AUTO_INCREMENT Primary Key not_null
 		"name" du type varchar(100) not_null
